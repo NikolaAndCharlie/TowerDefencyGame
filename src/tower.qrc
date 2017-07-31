@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>tower.ico</file>
+        <file>arrow.ico</file>
+        <file>enemy.ico</file>
+        <file>greenbullet.ico</file>
+        <file>redbullet.ico</file>
+    </qresource>
+</RCC>
